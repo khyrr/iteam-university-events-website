@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![iTeam University]<img width="919" height="307" alt="image" src="https://github.com/user-attachments/assets/c1d428a0-911d-4a8c-9d54-627eafc99ab7" />
+<img width="919" height="307" alt="image" src="https://github.com/user-attachments/assets/c1d428a0-911d-4a8c-9d54-627eafc99ab7" />
 
 
 **A comprehensive event management and job placement platform for universities**
