@@ -732,7 +732,6 @@ SOFTWARE.
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/0xkhyr/iteam-university-events-website/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/0xkhyr/iteam-university-events-website/discussions)
-- 📧 **Email**: support@iteamuniversity.com
 - 📖 **Documentation**: [Wiki](https://github.com/0xkhyr/iteam-university-events-website/wiki)
 
 ### Community
