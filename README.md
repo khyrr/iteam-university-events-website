@@ -144,7 +144,7 @@ Built with a mobile-first approach using TailwindCSS, the platform features dark
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/khyrr/iteam-university-events-website.git
+git clone https://github.com/khyarum/iteam-university-events-website.git
 cd iteam-university-events-website
 ```
 
@@ -655,7 +655,7 @@ We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/khyrr/iteam-university-events-website.git
+   git clone https://github.com/khyarum/iteam-university-events-website.git
    ```
 
 2. **Create a feature branch**
@@ -725,14 +725,14 @@ SOFTWARE.
 ## 📞 Contact & Support
 
 ### Project Maintainer
-- **GitHub**: [@khyrr](https://github.com/khyrr)
-- **Repository**: [iteam-university-events-website](https://github.com/khyrr/iteam-university-events-website)
+- **GitHub**: [@khyarum](https://github.com/khyarum)
+- **Repository**: [iteam-university-events-website](https://github.com/khyarum/iteam-university-events-website)
 
 ### Support Channels
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/khyrr/iteam-university-events-website/issues)
-- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/khyrr/iteam-university-events-website/discussions)
-- 📖 **Documentation**: [Wiki](https://github.com/khyrr/iteam-university-events-website/wiki)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/khyarum/iteam-university-events-website/issues)
+- 💡 **Feature Requests**: [GitHub Discussions](https://github.com/khyarum/iteam-university-events-website/discussions)
+- 📖 **Documentation**: [Wiki](https://github.com/khyarum/iteam-university-events-website/wiki)
 
 ### Community
 
@@ -756,6 +756,6 @@ SOFTWARE.
 
 **[⬆ Back to Top](#iteam-university-event-management-platform)**
 
-Made with ❤️ by [@khyrr](https://github.com/khyrr)
+Made with ❤️ by [@khyarum](https://github.com/khyarum)
 
 </div>
